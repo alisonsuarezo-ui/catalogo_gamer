@@ -16,3 +16,11 @@ Esta saga combina acción, aventura y fantasía, y transmite valores como el cor
 
 # Imagen 
 ![alt text](image.png)
+
+# Reseña Breve
+
+The Legend of Zelda es una saga muy importante en el mundo de los videojuegos por su creatividad y calidad. Sus historias, aunque sencillas, logran emocionar gracias a su música, escenarios y forma de narrar.
+
+Uno de sus mayores puntos fuertes es la exploración, ya que permite al jugador descubrir el mundo a su propio ritmo. Sin embargo, algunas entregas repiten la misma estructura, lo que puede resultar predecible.
+
+En conclusión, Zelda destaca por su innovación y estilo único, convirtiéndose en una de las franquicias más influyentes de la historia.
