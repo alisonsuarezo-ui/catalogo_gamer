@@ -12,4 +12,6 @@ Pac-Man es un videojuego clásico donde el jugador controla a un personaje amari
 
 ![pacman](https://i.imgur.com/v2QyafS.png)
 
+# Reseña crítica
 
+Pac-Man es uno de los juegos más importantes de la historia por su jugabilidad simple pero adictiva. Su diseño y personajes lo hicieron muy popular y siguen siendo recordados hoy en día.
