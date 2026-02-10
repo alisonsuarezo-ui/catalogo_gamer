@@ -12,3 +12,6 @@ Jugadores deben descubrir al impostor dentro de una nave espacial.
 
 ![Among_Us](https://i.imgur.com/zhmsspq.png)
 
+# Reseña Critica 
+
+Es divertido en grupo, aunque pierde interés sin amigos.
