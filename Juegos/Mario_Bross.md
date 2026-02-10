@@ -8,3 +8,9 @@ Plataforma: NES
 
 Mario debe rescatar a la princesa Peach atravesando distintos mundos llenos de enemigos y obstáculos.
 
+# Imagen
+
+![MarioBross](blob:https://imgur.com/28c2ef43-3d42-423c-ab6a-625298a7cfef)
+
+
+
