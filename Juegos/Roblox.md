@@ -8,3 +8,7 @@ Plataforma: PC, Móvil, Consolas
 
 Plataforma donde los usuarios crean y juegan experiencias.
 
+# Imagen
+
+![Roblox](https://i.imgur.com/kVFRg1m.png)
+
