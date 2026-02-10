@@ -12,3 +12,6 @@ Plataforma donde los usuarios crean y juegan experiencias.
 
 ![Roblox](https://i.imgur.com/kVFRg1m.png)
 
+# Reseña crítica
+
+Fomenta la creatividad, pero depende mucho del contenido de la comunidad.
