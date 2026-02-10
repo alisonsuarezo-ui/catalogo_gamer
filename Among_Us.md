@@ -8,3 +8,7 @@ Plataforma: PC, Móvil, Consolas
 
 Jugadores deben descubrir al impostor dentro de una nave espacial.
 
+# Imagen
+
+![Among_Us](https://i.imgur.com/zhmsspq.png)
+
