@@ -13,3 +13,6 @@ En cada juego, Link debe enfrentarse a grandes peligros, resolver acertijos y ex
 Durante su viaje, Link recibe la ayuda de la princesa Zelda, quien simboliza la sabiduría y guía al héroe en su misión. Juntos luchan para mantener el equilibrio entre el bien y el mal y devolver la paz a Hyrule.
 
 Esta saga combina acción, aventura y fantasía, y transmite valores como el coraje, la amistad y la perseverancia.
+
+# Imagen 
+![alt text](image.png)
