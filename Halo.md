@@ -13,3 +13,6 @@ Halo: Combat Evolved cuenta la historia del Jefe Maestro, un supersoldado que lu
 
 ![alt text](image.png)
 
+# Reseña Breve
+
+Halo es un juego muy importante en la historia de los videojuegos por su jugabilidad innovadora y su historia interesante. Destaca por su modo campaña y multijugador, aunque algunos gráficos pueden parecer antiguos hoy en día. Aun así, sigue siendo un clásico muy valorado.
